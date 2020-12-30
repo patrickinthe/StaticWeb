@@ -34,7 +34,4 @@
 
 등기 및 조합 관련 자세한 정보를 원하시면 [서센자조합정상화 네이버 카페](https://cafe.naver.com/seosenzxi)를 방문해주시면 감사하겠습니다.  
 
-
-<script>
-  console.log("aaa");
-  </script>
+<script src="./ga.js"></script>
